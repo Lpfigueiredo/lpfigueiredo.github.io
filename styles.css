@@ -1,14 +1,13 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-.navbar {
-  margin-bottom: 0px;
-}
-
 .jumbotron{
-  height:  calc(100vh - 56px);
+  height:  100vh;
+  min-height: 300px;
   margin-bottom: 0px;
+}
+
+.bg-purple {
+  background-color: #794BC4;
+}
+
+.jumbotron h2{
+  color: #A37CED;
 }
