@@ -1,14 +1,18 @@
-.jumbotron{
-  height:  100vh;
-  min-height: 300px;
-  margin-bottom: 0px;
+body {
+  position: relative;
 }
 
 .bg-purple {
   background-color: #794BC4;
 }
 
-.jumbotron h2{
+.container-fluid{
+  height:  100vh;
+  min-height: 300px;
+  margin-bottom: 0px;
+}
+
+.container-fluid h2{
   color: #A37CED;
 }
 
