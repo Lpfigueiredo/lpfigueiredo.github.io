@@ -14,11 +14,13 @@ body {
   background-color: #794BC4;
 }
 
-.container-fluid{
+#home {
   height:  100vh;
   min-height: 300px;
-  margin-bottom: 0px;
-  margin-top: 0px;
+}
+
+#tech {
+  height: auto;
 }
 
 .container-fluid h2{
@@ -37,3 +39,4 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
