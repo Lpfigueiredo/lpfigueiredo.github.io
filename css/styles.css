@@ -41,10 +41,10 @@ img {
 }
 
 .a-clear {
-  color: inherit;
+  color: white;
   text-decoration: none;
 }
 
 .a-clear:hover {
-  color: inherit;
+  color: white;
 }
