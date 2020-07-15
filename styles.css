@@ -11,3 +11,16 @@
 .jumbotron h2{
   color: #A37CED;
 }
+
+img {
+  height: 100px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sc-align-center {
+  margin-left: auto;
+  margin-right: auto;
+}
