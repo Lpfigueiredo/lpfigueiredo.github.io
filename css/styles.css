@@ -16,7 +16,7 @@ body {
 
 #home {
   height: 100vh;
-  min-height: 300px;
+  min-height: 400px;
 }
 
 #tech {
@@ -47,4 +47,10 @@ img {
 
 .a-clear:hover {
   color: white;
+}
+
+img.home {
+  height: 60vh;
+  min-height: 250px;
+  width: auto;
 }
